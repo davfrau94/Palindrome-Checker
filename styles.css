@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 2rem;
+    text-align: center;
+    background-color: aliceblue;
+}
+input, button {
+    padding: 0.5rem;
+    font-size: 1rem;
+    margin: 1rem 0.5rem;
+}
+#result {
+    margin-top: 1rem;
+    font-weight: bold;
+}
+button {
+    border-radius: 10px;
+    background-color: rgb(116, 127, 250);
+    color: white;
+}
+button:hover {
+    background-color: rgb(169, 176, 251);
+    cursor: pointer;
+}
+#info {
+    max-width: 500px;
+    padding: 1rem;
+    margin: 0 auto;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgb(116, 127, 250);
+    color: white;
+}
